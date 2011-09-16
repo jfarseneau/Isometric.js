@@ -1,0 +1,259 @@
+<map>
+	<specs>
+		<specsX>6</specsX>
+		<specsY>6</specsY>
+		<music>arudo_18794.ogg</music>
+	</specs>
+	
+	<tile>
+		<x>1</x>
+		<y>1</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>1</x>
+		<y>2</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>1</x>
+		<y>3</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>1</x>
+		<y>4</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>1</x>
+		<y>5</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>1</x>
+		<y>6</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>1</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>2</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>3</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>4</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>5</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>6</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>1</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>2</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>3</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>4</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>5</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>6</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>1</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>2</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>3</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>4</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>5</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>6</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>1</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>2</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>3</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>4</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>5</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>6</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>1</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>2</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>3</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>4</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>5</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>6</y>
+		<type>snow</type>
+		<elevation>0</elevation>
+	</tile>
+</map>

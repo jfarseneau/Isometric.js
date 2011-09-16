@@ -1,0 +1,301 @@
+<map>
+	<specs>
+		<specsX>7</specsX>
+		<specsY>6</specsY>
+		<music>arudo_18794.ogg</music>
+	</specs>
+	
+	<tile>
+		<x>1</x>
+		<y>1</y>
+		<type>grass1</type>
+		<elevation>3</elevation>
+	</tile>
+	
+	<tile>
+		<x>1</x>
+		<y>2</y>
+		<type>grass1</type>
+		<elevation>2</elevation>
+	</tile>
+	
+	<tile>
+		<x>1</x>
+		<y>3</y>
+		<type>grass2</type>
+		<elevation>1</elevation>
+	</tile>
+	
+	<tile>
+		<x>1</x>
+		<y>4</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>1</x>
+		<y>5</y>
+		<type>grass2</type>
+		<elevation>1</elevation>
+	</tile>
+	
+	<tile>
+		<x>1</x>
+		<y>6</y>
+		<type>grass1</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>1</y>
+		<type>grass3</type>
+		<elevation>1</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>2</y>
+		<type>grass1</type>
+		<elevation>1</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>3</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>4</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>5</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>2</x>
+		<y>6</y>
+		<type>grass1</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>1</y>
+		<type>grass1</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>2</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>3</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>4</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>5</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>3</x>
+		<y>6</y>
+		<type>grass3</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>1</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>2</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>3</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>4</y>
+		<type>grass1</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>5</y>
+		<type>grass2</type>
+		<elevation>-1</elevation>
+	</tile>
+	
+	<tile>
+		<x>4</x>
+		<y>6</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>1</y>
+		<type>water</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>2</y>
+		<type>grass1</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>3</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>4</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>5</y>
+		<type>grass1</type>
+		<elevation>-1</elevation>
+	</tile>
+	
+	<tile>
+		<x>5</x>
+		<y>6</y>
+		<type>grass3</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>1</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>2</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>3</y>
+		<type>grass1</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>4</y>
+		<type>grass3</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>5</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>6</x>
+		<y>6</y>
+		<type>grass1</type>
+		<elevation>0</elevation>
+	</tile>
+	
+		<tile>
+		<x>7</x>
+		<y>1</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>7</x>
+		<y>2</y>
+		<type>grass1</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>7</x>
+		<y>3</y>
+		<type>grass1</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>7</x>
+		<y>4</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>7</x>
+		<y>5</y>
+		<type>grass1</type>
+		<elevation>0</elevation>
+	</tile>
+	
+	<tile>
+		<x>7</x>
+		<y>6</y>
+		<type>grass2</type>
+		<elevation>0</elevation>
+	</tile>
+</map>

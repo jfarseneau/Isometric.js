@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>Tacticolour Editor</title>
+    
+		<link rel="stylesheet" type="text/css" href="css/map.css" />
+    
+    <script type="text/javascript" src="js/editor.js"></script>
+		<script type="text/javascript" src="js/functions.js"></script>
+		
+	</head>
+	
+	<body onload="initialize();">
+		
+		<canvas id="viewport" width="600" height="600"></canvas>
+		
+		<div id="mapBox" onmouseover="tileHover(event);" onmouseout="tileExit(event);"> </div>
+		
+		<form name="mapSelector">
+			<select onchange="renderMap(this.value);">
+				<option value="maps/map1.xml">Default</option>
+			</select>
+		</form>
+		<div id="music"></div>
+		<div id="versionInfo" onLoad="printVersion();">test</div>
+		
+		
+		<input type="button" value="Play Music" onClick="jukebox.musicControl();" id="musicController"></input><br />
+		
+		<div id="debugInfo"></div>
+	</body>
+</html>
